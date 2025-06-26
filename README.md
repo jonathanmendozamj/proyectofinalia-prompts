@@ -64,12 +64,8 @@ Para ejecutar este proyecto localmente:
 ## 🛠️ Tecnologías utilizadas
 
 - 🐍 Python 3.10+
-
 - 📓 Jupyter Notebook
-
-- 🤖 OpenAI GPT-4 (via API)
-
+- 🤖 Gemini (via API)
 - 🔗 Prompt chaining
-
 - 📄 Markdown y JSON (para estructuración de prompts)
 
