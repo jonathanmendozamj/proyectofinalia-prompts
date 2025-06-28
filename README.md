@@ -1,8 +1,8 @@
-# 🌍 PromptTrip Agents
+# 🌍 Generador de Experiencias Turísticas Personalizadas (GenExTu)
 
 ![Portada del Proyecto](https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1350&q=80)
 
-> ✈️ Agentes inteligentes basados en prompts para planificar experiencias turísticas personalizadas utilizando IA multimodal.
+> ✈️ Agentes inteligentes basados en prompts para planificar experiencias turísticas personalizadas utilizando IA (Inteligencia Artificial).
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 📌 Descripción del Proyecto
 
-**PromptTrip Agents** es un sistema de agentes inteligentes diseñados con prompts estratégicos para asistir a usuarios en la planificación de viajes personalizados. El sistema aprovecha modelos de lenguaje (texto-texto) y generadores de imágenes (texto-imagen) para ofrecer itinerarios detallados, consejos culturales, frases útiles en idioma local y visualizaciones inspiradoras.
+**GenExTu** es un sistema de agentes inteligentes diseñados con prompts estratégicos para asistir a usuarios en la planificación de viajes personalizados. El sistema aprovecha modelos de lenguaje (texto-texto) y generadores de imágenes (texto-imagen) para ofrecer itinerarios detallados, consejos culturales, frases útiles en idioma local y visualizaciones inspiradoras.
 
-Cada agente cumple un rol específico y coopera con los demás mediante *prompt chaining* para entregar una experiencia turística multimodal, adaptada al perfil del viajero.
+Cada agente cumple un rol específico y coopera con los demás mediante *prompt chaining* para entregar una experiencia turística adaptada al perfil del viajero.
 
 **Agentes incluidos**:
 
@@ -46,7 +46,7 @@ Cada agente cumple un rol específico y coopera con los demás mediante *prompt 
   - “Calle tranquila de Kioto con templos y hojas otoñales”
 - Estilos: realista, anime, ilustración artística
 
-📸 Las imágenes se.
+📸 Las imágenes se generarán mediante Vertex AI usando API.
 
 ---
 
@@ -56,8 +56,8 @@ Para ejecutar este proyecto localmente:
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/prompttrip-agents.git
-   cd prompttrip-agents
+   git clone https://github.com/jonathanmendozamj/proyectofinalia-prompts
+   cd proyectofinalia-prompts
 
 ---
 
