@@ -19,7 +19,7 @@
 
 ## 📌 Descripción del Proyecto
 
-**GenExTu** es un sistema de agentes inteligentes diseñados con prompts estratégicos para asistir a usuarios en la planificación de viajes personalizados. El sistema aprovecha modelos de lenguaje (texto-texto) y generadores de imágenes (texto-imagen) para ofrecer itinerarios detallados, consejos culturales, frases útiles en idioma local y visualizaciones inspiradoras.
+**GenExTu** es un sistema de agentes inteligentes diseñados con prompts estratégicos para asistir a los usuarios en la planificación de viajes personalizados. El sistema aprovecha modelos de lenguaje (texto-texto) y generadores de imágenes (texto-imagen) para ofrecer itinerarios detallados, consejos culturales, frases útiles en idioma local y visualizaciones inspiradoras.
 
 Cada agente cumple un rol específico y coopera con los demás mediante *prompt chaining* para entregar una experiencia turística adaptada al perfil del viajero.
 
@@ -63,9 +63,9 @@ Para ejecutar este proyecto localmente:
 
 ## 🛠️ Tecnologías utilizadas
 
-- 🐍 Python 3.10+
+- 🐍 Python 3.13.2
 - 📓 Jupyter Notebook
-- 🤖 Gemini (via API)
+- 🤖 Google Generative AI 0.8.5 (via API)
 - 🔗 Prompt chaining
 - 📄 Markdown y JSON (para estructuración de prompts)
 
